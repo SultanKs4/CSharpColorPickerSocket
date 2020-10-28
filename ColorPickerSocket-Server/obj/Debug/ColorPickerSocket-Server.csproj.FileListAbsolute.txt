@@ -1,0 +1,9 @@
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\bin\Debug\ColorPickerSocket-Server.exe.config
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\bin\Debug\ColorPickerSocket-Server.exe
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\bin\Debug\ColorPickerSocket-Server.pdb
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket_Server.Properties.Resources.resources
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket_Server.Form1.resources
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.csproj.GenerateResource.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.csproj.CoreCompileInputs.cache
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.exe
+D:\Sultan\Polytechnic\Sem5\Pemrograman Jaringan\uts\c#\ColorPickerSocket\ColorPickerSocket\ColorPickerSocket-Server\obj\Debug\ColorPickerSocket-Server.pdb
